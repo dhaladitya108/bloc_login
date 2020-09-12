@@ -1,6 +1,6 @@
 # bloc_login
 
-A new Flutter project.
+A simple login page made with bloc pattern
 
 ## Getting Started
 
